@@ -9,11 +9,19 @@
  * @author fa20-bse-061
  */
 public class MediatorPatternDemo {
-   public static void main(String[] args) {
-      User robert = new User("Robert");
-      User john = new User("John");
+    public static void main(String[] args) {
 
-      robert.sendMessage("Hi! John!");
-      john.sendMessage("Hello! Robert!");
-   }
+
+        University comsatsUniversity = new University("COMSATS University");
+        University nustUniversity = new University("NUST");
+        Teacher teacherAli = new Teacher("Teacher Sir Ali");
+        User mAli = new User("M Ali");
+        User ahmad = new User("Ahmad");
+        User ali = new User("Ali");
+        
+        
+        ChatRoom.sendMessageToTarget(mAli, comsatsUniversity, "Hello, COMSATS University!");
+        ChatRoom.sendMessageToAll(mAli, List.of(comsatsUniversity, nustUniversity, teacherAli, ahmad, ali), "Hello, everyone!");
+
+    }
 }
