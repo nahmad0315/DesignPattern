@@ -1,0 +1,2 @@
+This folder contains materials related to lab work on design patterns. 
+Explore the "Labs" directory for practical exercises and assignments related to different design patterns. Each lab is organized into its respective subdirectory, providing clear instructions and sample solutions.
