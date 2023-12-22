@@ -3,14 +3,20 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/CommandPattern/RG_Example_Assignment/src/Devices_and_Remote_Controls/Tv.java</file>
-            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/CommandPattern/RG_Example_Assignment/src/Devices_and_Remote_Controls/AdvancedRemote.java</file>
-            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/CommandPattern/RG_Example_Assignment/src/Devices_and_Remote_Controls/Radio.java</file>
-            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/CommandPattern/RG_Example_Assignment/src/Devices_and_Remote_Controls/Demo.java</file>
-            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/CommandPattern/RG_Example_Assignment/src/Devices_and_Remote_Controls/Remote.java</file>
-            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/CommandPattern/RG_Example_Assignment/src/Devices_and_Remote_Controls/AC_Device.java</file>
-            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/CommandPattern/RG_Example_Assignment/src/Devices_and_Remote_Controls/BasicRemote.java</file>
-            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/CommandPattern/RG_Example_Assignment/src/Devices_and_Remote_Controls/Device.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/Wikipedia_Example/CityPerson.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/RG_Example_Task/Button.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/NewClass.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/RG_Example_Task/WindowsButton.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/Wikipedia_Example/Villager.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/Wikipedia_Example/IPerson.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/Wikipedia_Example/PersonType.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/RG_Example_Task/Demo.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/Wikipedia_Example/PersonFactory.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/RG_Example_Task/HtmlDialog.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/RG_Example_Task/Dialog.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/RG_Example_Task/WindowsDialog.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/RG_Example_Task/HtmlButton.java</file>
+            <file>file:/C:/Users/Nabeel%20Ahmad/Desktop/Design%20Pattern/DesignPattern_Lab/Gang_of_Four/RG_Example_Assignment/src/FactoryMethod/Wikipedia_Example/MainClass.java</file>
         </group>
     </open-files>
 </project-private>
